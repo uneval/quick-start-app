@@ -1,0 +1,9 @@
+{
+  "name": "quick-start-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/uneval/quick-start-app.git",
+  "author": "手艺人",
+  "license": "MIT",
+  "private": true
+}
